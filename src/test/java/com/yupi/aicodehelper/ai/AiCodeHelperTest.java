@@ -15,7 +15,7 @@ class AiCodeHelperTest {
 
     @Test
     void chat() {
-        aiCodeHelper.chat("你好，我是程序员鱼皮");
+        aiCodeHelper.chat("你好，我是程序员蔡学成");
     }
 
     @Test
